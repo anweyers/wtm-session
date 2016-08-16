@@ -1,2 +1,2 @@
-# wtm-session
+# WTM-session
 x y z + abc
